@@ -5,7 +5,7 @@ import PIL.Image    # pillow to interact with image
 import subprocess   # to run bash command
 import time         # time to wait 
 import pathlib      # dealing with paths
-
+import pyperclip as pc    # for clipboard management
 
 
 def takeScreenshot(img_path):
@@ -26,6 +26,7 @@ def takeScreenshot(img_path):
 def extract(img_path,la="eng"):
     # extract text from screenshot
     text=pytesseract.image_to_string(PIL.Image.open(img_path),lang=la)
+    pc.copy(text)
     print(text)
 
     # delete the taken screenshot 
