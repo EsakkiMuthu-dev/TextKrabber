@@ -40,7 +40,7 @@ from PyQt5 import uic
 class gui(QMainWindow):
     def __init__(self) -> None:
         super(gui,self).__init__()
-        uic.loadUi("./UI/TextKrabber.ui",self)
+        uic.loadUi("/home/peace/Documents/TextKrabber/src/UI/TextKrabber.ui",self)
         self.show()
         # langs
         self.generateLangOptions()
