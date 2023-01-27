@@ -1,5 +1,6 @@
 # TextKrabber
-Try to Build My First Kde Application
+Extract text from images . It uses tesseract ocr Engine to extract text from image. This is an Qt based applications.
+
 
 ### Features I want to add
 
