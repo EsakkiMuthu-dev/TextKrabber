@@ -9,7 +9,14 @@ Extract text from images . It uses tesseract ocr Engine to extract text from ima
 
 
 
-[![Text Krabber ](https://i.ytimg.com/vi/gb0efzaEeIQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIFcoZTAP&rs=AOn4CLATHW6qJrbgU8n2TXZt2Bvlqgy1tg)](https://youtu.be/gb0efzaEeIQ)
+
+
+___________________________________________________________________________________________________________________________________
+
+
+
+
+[![Text Krabber ](https://i.ytimg.com/vi/gb0efzaEeIQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIFcoZTAP&rs)](https://youtu.be/gb0efzaEeIQ)
 
 
 
