@@ -8,5 +8,5 @@ Try to Build My First Kde Application
 - [x] send extracted text to clipboard
 - [ ] get image from clipbaord
 - [X] abiltiy to choose lang before extraction
-- [ ] abilty to install extra lang
-- [ ] make the python script to KDE Application
+- [x] abilty to install extra lang
+- [x] added GUI support
