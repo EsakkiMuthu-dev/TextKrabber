@@ -6,7 +6,7 @@ Extract text from images . It uses tesseract ocr Engine to extract text from ima
 
 
 
-https://user-images.githubusercontent.com/86913985/215068277-ae9eef13-3c88-417a-ab1b-172e29a712a5.mp4
+
 
 
 
