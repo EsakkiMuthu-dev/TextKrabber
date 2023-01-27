@@ -5,6 +5,10 @@ Extract text from images . It uses tesseract ocr Engine to extract text from ima
 ### Demo Video
 
 
+[![Text Krabber ](https://i.ytimg.com/vi/QVM_yKjdvB0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGQoSjAP&rs=AOn4CLAYAAR-877tZI4FVyMc9flRq1w-sw)](https://youtu.be/QVM_yKjdvB0)
+
+
+
 
 ### Features I want to add
 
