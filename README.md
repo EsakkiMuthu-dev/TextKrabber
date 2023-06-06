@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - [x] Extract text
 - [x] Rectangular selection
 - [x] send extracted text to clipboard
-- [ ] get image from clipbaord
+- [ ] get image from clipboard
 - [X] abiltiy to choose lang before extraction
 - [x] abilty to install extra lang
 - [x] added GUI support
